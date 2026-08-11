@@ -1,53 +1,72 @@
-<h1 align="center">Hi, I'm Tirtha 👋</h1>
+<h1 data-importer="text" align="left">Hi, I'm Sudipta Chowdhury Tirtha 👋</h1>
 
-<h3 align="center">CSE Undergrad @ AIUB | Aspiring Data Scientist | AI/ML Enthusiast</h3>
+###
 
-<p align="center">
-  <a href="https://linkedin.com/in/tirtho-chowdhury-5683963b7"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+<div data-importer="socials" align="left">
+  <a href="https://www.linkedin.com/in/tirtho-chowdhury-5683963b7" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
 
----
+###
 
-### 🚀 About Me
+<br clear="both">
 
-- 🎓 Computer Science & Engineering student at **American International University-Bangladesh (AIUB)**
-- 📊 Focusing on **Data Science & AI**, aiming to work as a Data Scientist
-- 🌱 Currently deepening my skills in machine learning, data analysis, and generative AI
-- 🤝 Active member of the **AIUB IEEE Student Branch** and **Computer Society**
-- 📜 26+ certifications in AI/GenAI from Google, Microsoft, and IBM
-- 💡 Interested in AI fairness, bias evaluation, and applied ML for real-world problems
+<p data-importer="text" align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=3rd+year+CSE+Undergrad+%40+AIUB+%7C+Aspiring+Data+Scientist+%7C+AI%2FML+Enthusiast" alt="Typing SVG" /></a></p>
 
----
+###
 
-### 🛠️ Tech Stack
+<h2 data-importer="text" align="left">About me</h2>
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+###
 
----
+<br clear="both">
 
-### 📌 Featured Projects
+<img data-importer="image" align="right" height="200" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif"  />
 
-- **PROPERTYMS** — A C# Windows Forms property management system with role-based login, real-time messaging, dashboards, and saved listings, backed by SQL Server.
-- **AgriSmart** — A multi-role agricultural mobile platform connecting Farmers, Field Workers, Customers, and Suppliers, built as a group software engineering project.
-- **Captcha by Tirtha** — A Chrome extension that auto-solves the AIUB portal's image-based math captcha using the Anthropic API.
+###
 
----
+<p data-importer="text" align="left">🎓 Computer Science & Engineering student at American International University-Bangladesh (AIUB)<br>📊 Focusing on Data Science & AI, aiming to work as a Data Scientist<br>🌱 Currently deepening my skills in machine learning, data analysis, and generative AI<br>🤝 Active member of the AIUB IEEE Student Branch, Computer Society and AIUB Computer Club<br>📜 26+ certifications in AI/GenAI from Google, Microsoft, and IBM<br>💡 Interested in AI fairness, bias evaluation, and applied ML for real-world problems</p>
 
-### 📈 GitHub Stats
+###
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SudiptaChowdhuryTirtha&show_icons=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudiptaChowdhuryTirtha&layout=compact" />
-</p>
+<h2 data-importer="text" align="left">Skills</h2>
 
----
+###
 
-### 📫 Connect with Me
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/SudiptaChowdhuryTirtha/SudiptaChowdhuryTirtha/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/SudiptaChowdhuryTirtha/SudiptaChowdhuryTirtha/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-<p align="center">
-  <a href="https://linkedin.com/in/tirtho-chowdhury-5683963b7">LinkedIn</a>
-</p>
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+</div>
+
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/SudiptaChowdhuryTirtha/SudiptaChowdhuryTirtha/snake-output/snake.svg" alt="Snake animation" />
+
+###
