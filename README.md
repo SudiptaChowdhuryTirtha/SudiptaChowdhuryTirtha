@@ -4,7 +4,10 @@
 
 <div data-importer="socials" align="left">
   <a href="https://www.linkedin.com/in/tirtho-chowdhury-5683963b7" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="80" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="starshining050@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="80" height="40" alt="gmail logo"  />
   </a>
 </div>
 
@@ -12,7 +15,7 @@
 
 <br clear="both">
 
-<p data-importer="text" align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=3rd+year+CSE+Undergrad+%40+AIUB+%7C+Aspiring+Data+Scientist+%7C+AI%2FML+Enthusiast" alt="Typing SVG" /></a></p>
+<p data-importer="text" align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=3rd+year+CSE+Undergrad+%40+AIUB" alt="Typing SVG" /></a></p>
 
 ###
 
